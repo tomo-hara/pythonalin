@@ -2,7 +2,7 @@
 ## nums = [2, 7]
 ## target = 9
 ## >>> [0, 1]
-from typing import List
+from pip import List
 
 def two_sum(nums: List[int], target: int) -> List[int]:
 	nums_len = len(nums)
